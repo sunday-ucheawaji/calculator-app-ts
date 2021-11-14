@@ -1,5 +1,5 @@
-import '../App.css'
-import React, {FC} from 'react'
+import '../App.css';
+import React, {FC} from 'react';
 import IButton from '../Interfaces/Button';
 
 
@@ -10,7 +10,7 @@ const Button:FC<IButton>=({
     }):JSX.Element=>{
     return (
         <>
-            <div className='btn light-gray' onClick={reset}>
+        <div className='btn light-gray' onClick={reset}>
           AC
         </div>
         <div className='btn light-gray' onClick={percent}>
