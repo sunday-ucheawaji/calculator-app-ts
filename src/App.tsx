@@ -113,6 +113,7 @@ const App: FC=():JSX.Element=> {
                 equals={equals} operatorType={operatorType} inputNum={inputNum}
           />       
       </div>
+      <div></div>
     </div>
   )
 }
