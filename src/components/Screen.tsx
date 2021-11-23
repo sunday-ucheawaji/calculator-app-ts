@@ -1,4 +1,4 @@
-import '../App.css'
+import '../Styles/Calculator.css';
 import React, { FC } from 'react'
 import NumberFormat from "react-number-format";
 import IScreen from '../Interfaces/Screen'
