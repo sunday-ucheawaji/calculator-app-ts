@@ -1,4 +1,4 @@
-import '../App.css';
+import '../Styles/Calculator.css';
 import React, {FC} from 'react';
 import IButton from '../Interfaces/Button';
 
