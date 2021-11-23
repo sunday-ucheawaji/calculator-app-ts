@@ -20,6 +20,7 @@ const Screen:FC<IScreen>=({input, preState}):JSX.Element=>{
               thousandSeparator={true}
             />
           )}
+          <div></div>
         </div>
     )
 }
